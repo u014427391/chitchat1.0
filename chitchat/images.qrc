@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/User.png</file>
+        <file>images/background.jpg</file>
+        <file>images/bold.png</file>
+        <file>images/dove.png</file>
+        <file>images/exitLogin.png</file>
+        <file>images/help.png</file>
+        <file>images/insert-image.png</file>
+        <file>images/Music.png</file>
+        <file>images/painting.png</file>
+        <file>images/save.png</file>
+        <file>images/send.png</file>
+        <file>images/textcolor.png</file>
+        <file>images/textitalic.png</file>
+        <file>images/textunder.png</file>
+        <file>images/clear.png</file>
+        <file>images/emoticon_smile.png</file>
+        <file>images/printText.png</file>
+        <file>images/color.png</file>
+        <file>images/exit.png</file>
+        <file>images/gyachi.png</file>
+        <file>images/load.png</file>
+        <file>images/right.png</file>
+        <file>images/redo.png</file>
+        <file>images/palette_brush.png</file>
+        <file>images/playerbg.jpg</file>
+        <file>images/yy.png</file>
+        <file>images/pic1.jpg</file>
+        <file>images/pic2.jpg</file>
+        <file>images/pic.jpg</file>
+        <file>images/note.png</file>
+        <file>images/explore.png</file>
+        <file>images/img.png</file>
+    </qresource>
+</RCC>
